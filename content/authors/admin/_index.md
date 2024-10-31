@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:marzamendia@ing.una.py'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/mariuspy
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+#    url: https://github.com/mariuspy
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mario-arzamendia-lopez/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=mdptdt4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6486-8402
 
 interests:
   - Vehículos Autónomos de Superficie
@@ -60,32 +60,23 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Tesis: Titulo de Tesis, Supervisor: Dr. Sergio Toral
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MSc Ingeniería Electrónica
     institution: Universidad de Mie, Japón
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Tesis: Titulo de Tesis, Supervisor: Dr. Kazuo Mori
   - area: Ingeniería Eléctrica
-    institution: Massachusetts Institute of Technology
+    institution: Universidad de Brasilia, Brasil
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Trabajo Final de Grado, Supervisor: Dr. Plinio Ganime Alves
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -186,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mario Arzamendia López es Docente Investigador con Dedicación Completa en el Departamento de Ingeniería Electrónica y Mecatrónica de la Universidad Nacional de Asunción. Se desempeña como Coordinador del Laboratorio de Sistemas Distribuidos. Es investigador categorizado por el CONACYT como nivel I. Posee experiencia en gestión de proyectos de innovación e investigación. Es tutor de trabajos finales de grado y postgrado y actualmetne se desempeña como investigador principal en 2 proyectos de investigación con apoyo del CONACYT en temas relacionados a vehículos autónomos de superficie.
