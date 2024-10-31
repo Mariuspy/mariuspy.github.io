@@ -69,7 +69,6 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Supervisado por el Dr. Kazuo Mori. Título de Tesis
       GPA: 3.8/4.0
 
       Courses included:
