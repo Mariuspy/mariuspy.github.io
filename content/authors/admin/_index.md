@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Ing. Mario Eduado Arzamendia López
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mario Arzamendia
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mario
+last_name: Arzamendia López
 
 # Status emoji
 status:
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Docente Investigador
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Facultad de Ingeniería Universidad Nacional de Asunción
+    url: https://www.ing.una.py/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:marzamendia@ing.una.py'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mariuspy
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
