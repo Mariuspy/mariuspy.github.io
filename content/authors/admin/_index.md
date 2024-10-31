@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Dr. Ing. Mario Eduado Arzamendia López
+title: Mario Arzamendia López
 
 # Name pronunciation (optional)
-name_pronunciation: Mario Arzamendia
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Mario
@@ -47,13 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Vehículos Autónomos de Superficie
+  - Agricultura de precisión
+  - Sistemas de transporte inteligente
+  - Visión Computacional
+  - Aprendizaje Profundo
+  - Internet de las Cosas
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Ingeniería Automática, Electrónica y Telecomunicación
+    institution: Universidad de Sevilla
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,17 +65,18 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Universidad de Mie, Japón
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: 
+      Supervisado por el Dr. Kazuo Mori. Título de Tesis
       GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: Ingeniería Eléctrica
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
